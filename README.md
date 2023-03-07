@@ -2,7 +2,7 @@
 
 This statement summarises what this is,
 
-voice recognition ai assistant with limited capabilities, such as giving you a random insult, a catboy image, or anime quotes etc
+voice recognition ai assistant with terrible code and limited capabilities, such as giving you a random insult, a catboy image, or anime quotes etc
 
 made as a joke please don't hurt me 🥺
 
